@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About me 👋
 
+I am **Phuc Huynh**. I am an fresher **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, React Native, NodeJS, MongoDB, Mean Stack, RESTfull API’, UX/UI**
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
