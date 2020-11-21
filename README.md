@@ -1,5 +1,5 @@
 ### Hi there, I'm [Thanh Phuc Huynh!](https://github.com/ThanhPhucHuynh) 👋
-
+<img src="https://media1.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e476ypcqz1z0ieh4rs4dl2xkdtbi6y63rfbpa2mwyk5&rid=giphy.gif" alt="Image showing">
 
 <!--
 **ThanhPhucHuynh/ThanhPhucHuynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
