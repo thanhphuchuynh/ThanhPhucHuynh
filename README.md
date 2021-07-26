@@ -29,7 +29,7 @@ I am **Phuc Huynh**. I am a fresher **Fullstack Developer** with a demonstrated 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>    
 #### Other Social Medias
-🐦 [Facebook](https://www.facebook.com/phuchuynhfait/)| 📧 [Email](mailto:nguoigiaumat100@gmail.com)
+🐦 [Facebook](https://www.facebook.com/tphuc2111/)| 📧 [Email](mailto:nguoigiaumat100@gmail.com)
  
 [![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=ThanhPhucHuynh)](https://github.com/ThanhPhucHuynh/github-readme-stats)
 
