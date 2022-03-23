@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## About me 👋
 
-I am **Phuc Huynh**. I am a fresher **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, React Native, NodeJS, MongoDB, Mean Stack, RESTfull API’, UX/UI**
+I am **Phuc Huynh**. I am a mid-level **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, React Native, NodeJS, MongoDB, Mean Stack, RESTfull API’, UX/UI**
 
 
 ## Languages and Tools:
