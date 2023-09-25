@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## About me 👋
 
-I am **Phuc Huynh**. I am a mid-level **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, React Native, NodeJS, MongoDB, Mean Stack, RESTfull API’, UX/UI**
+I am **Phuc Huynh**. I am a **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, React Native, NodeJS, MongoDB, Mean Stack, RESTfull API’, UX/UI**
 
 
 ## Languages and Tools:
@@ -28,7 +28,7 @@ I am **Phuc Huynh**. I am a mid-level **Fullstack Developer** with a demonstrate
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>    
-#### Other Social Medias
+#### Other Social Media
 🐦 [Facebook](https://www.facebook.com/tphuc2111/)| 📧 [Email](mailto:nguoigiaumat100@gmail.com)
  
 [![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=ThanhPhucHuynh)](https://github.com/ThanhPhucHuynh/github-readme-stats)
