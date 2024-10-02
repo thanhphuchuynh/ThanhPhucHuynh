@@ -18,16 +18,8 @@ Here are some ideas to get you started:
 
 ## About me 👋
 
-I am **Phuc Huynh**. I am a **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, React Native, NodeJS, MongoDB, Mean Stack, RESTfull API’, UX/UI**
+I am **Phuc Huynh**. I am a **Software Engineer**
 
-
-## Languages and Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>    
 #### Other Social Media
 🐦 [Facebook](https://www.facebook.com/tphuc2111/)| 📧 [Email](mailto:nguoigiaumat100@gmail.com)
  
