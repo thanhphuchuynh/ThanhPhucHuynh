@@ -1,0 +1,307 @@
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{fontawesome}
+\usepackage{xcolor}
+
+% change color hyperlinks
+\hypersetup{%
+    colorlinks=true,% hyperlinks will be black
+    urlcolor=[rgb]{0.04,0,0.5},
+    urlbordercolor=[rgb]{0.7,0.7,0.7},% hyperlink borders will be gray
+    pdfborderstyle={/S/U/W 0.5}% border style will be underline of width 1pt
+}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+    \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+    \item\small{
+        \textbf{#1}{: #2 \vspace{-2pt}}
+    }
+}
+
+\newcommand{\resumeItemPaper}[1]{
+    \item\small{
+            {#1}
+    }
+}
+
+
+\newcommand{\resumeSubheading}[4]{
+    \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+        \textbf{#1}       & #2                 \\
+        \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+\textbf{\href{}{\Large Huynh Thanh Phuc - Sr Software Engineer}} & Email: \href{mailto:hthanhphuc99@gmail.com}{hthanhphuc99@gmail.com} \\    \href{https://www.linkedin.com/in/huynh-thanh-phuc-3921a7140/}{\faLinkedin}
+\href{https://github.com/thanhphuchuynh}{\faGithub} & \today \\
+\end{tabular*}
+
+%--------REFERENCES------------
+\section{Objective}
+
+{I am looking for a dynamic and progressive company to utilize 3+ years of experience in software development where my skills are utilized in the maximum way possible.}
+
+%--------HIGHLIGHTS------------
+\section{Highlights}
+\resumeSubHeadingListStart
+\item{ {About 3 + years of experience in Software Development (outsourcing, banking and product).  } }
+\item{ Experience in back-end development using Go, frontend with Javascript/Typescript framework: ReactJS, NextJS }
+\item{ Experience with real-time programming (websocket). }
+\item{ Experience in cloud services such as AWS, Google Cloud, K8s.}
+\item{ Familiar with Scrum/Agile software development process. }
+\item{ Good communication skills, ability to learn and develop using new technologies quickly, knowledge of OOPs concepts, DesignPatterns, DataStructures, and RESTfulAPI.}
+\resumeSubHeadingListEnd
+
+
+%--------PROGRAMMING SKILLS------------
+\section{Programming Skills}
+\resumeSubHeadingListStart
+\item{
+    \textbf{Programming Languages}{: Go, JavaScript, TypeScript, via.}
+}
+\item{
+    \textbf{Networking}{: Basic knowledge of networking concepts. Understanding of TCP/IP, HTTP, Socket programming, and DNS.}
+}
+\item{
+    \textbf{Cloud Technologies}{: Proficient in AWS and Google Cloud services such as Serverless, Lambda, SES, SQS, CloudWatch, RDS, and S3, GKE, K8s via.}
+}
+\item{
+    \textbf{Databases}{: Experienced with SQL and NoSQL databases.}
+}
+\item{
+    \textbf{Build, Source Control}{: Skilled in using Git for version control. Familiar with Jira and Confluence for project management.}
+}
+
+\resumeSubHeadingListEnd
+
+%-----------Work experience-----------------
+\section{Work experience}
+\resumeSubHeadingListStart
+\resumeSubheading
+{Aviron Active - \textit{Sr.Backend Developer}}{Ho Chi Minh, VN}
+{07/2023 – present}{}
+
+\textsc{\textit{\textbf{- Game-Server services}}}
+\resumeItemListStart
+\resumeItem{Description}{Server for multiple clients (for social and real-time games and apps)}
+\resumeItem{Responsibilities}{}
+    \resumeItemListStart
+         \item{{The real-time multiplayer and social and competitive server features you need for games, can handle multiple games with one server.}}
+         \item{{Build API Documentation. Refactor code and improve the system. Implement new features and fix bugs.}}
+         \item{{Worked in an Agile Scrum team environment with a high-tempo production cadence.}}
+    \resumeItemListEnd
+\resumeItem{Technologies}{Golang, Nakama, Postgres, Docker, Kubernetes, Websocket, CDC, Google Cloud (cloudrun, SQL, memory storage, GKE), via.}
+\resumeItemListEnd
+
+
+\resumeSubheading
+{HDBank - \textit{Software Engineer (Full-stack)}}{Ho Chi Minh, VN}
+{07/2023 – present}{}
+
+\textsc{\textit{\textbf{- SMS-Notify}}}
+\resumeItemListStart
+\resumeItem{Description}{This is a middleware, which helps handle high throughput messages sent to SMS services.}
+\resumeItem{Responsibilities}{}
+    \resumeItemListStart
+         \item{{Review requirements, and design documents with the team.}}
+         \item{{Design, review architecture, and implement features with the team.}}
+    \resumeItemListEnd
+\resumeItem{Technologies}{Golang, AWS Lambda, AWS Gateway, Postgres, SQS.}
+\resumeItemListEnd
+
+
+\textsc{\textit{\textbf{- Notification OTT}}}
+\resumeItemListStart
+\resumeItem{Description}{A REST API with Serverless Framework, which is a middleware between client and third services, is responsible for encrypting and decrypting information before sending and writing logs.}
+\resumeItem{Responsibilities}{}
+    \resumeItemListStart
+         \item{{Review requirements, and design documents with the team.}}
+         \item{{Design, review architecture, and implement features with the team.}}
+         \item{{Writing tests (Unit Test).}}
+    \resumeItemListEnd
+\resumeItem{Technologies}{Golang, AWS Lambda, AWS Gateway, DynamoDB.}
+\resumeItemListEnd
+
+\textsc{\textit{\textbf{- AppsFlyer Crawl Job}}}
+\resumeItemListStart
+\resumeItem{Description}{A job schedule crawls data with a Serverless Framework and stores data in S3.}
+\resumeItem{Responsibilities}{}
+    \resumeItemListStart
+         \item{{Review requirements, and design documents with the team.}}
+         \item{{Design, review architecture, and implement features with the team.}}
+    \resumeItemListEnd
+\resumeItem{Technologies}{Golang, AWS Lambda, AWS Gateway, DynamoDB, S3.}
+\resumeItemListEnd
+
+\textsc{\textit{\textbf{- DOP - Digital On-boarding Platform}}}
+\resumeItemListStart
+\resumeItem{Description}{This is a website that helps people to open an online bank account without having to go directly to the bank.}
+\resumeItem{Responsibilities}{}
+    \resumeItemListStart
+         \item{{Implement features, Implement Core Component library.}}
+         \item{{A design like a low-code system for the user}}
+    \resumeItemListEnd
+\resumeItem{Technologies}{React, Redux, NextJs, via.}
+\resumeItemListEnd
+
+\resumeSubheading
+{TMA Solutions - \textit{Software Engineer (Full-stack)}}{Ho Chi Minh, VN}
+{06/2021 – 06/2022}{}
+
+\textsc{\textit{\textbf{- Healthcare Management Platform}}}
+\resumeItemListStart
+\resumeItem{Description}{This is a medical website used to manage health insurance health information.}
+\resumeItem{Responsibilities}{}
+    \resumeItemListStart
+         \item{{Implement new features and fix bugs.}}
+         \item{{Discuss and clarify requirements with partners.}}
+         \item{{Worked in an Agile Scrum team environment with a high-tempo production cadence.}}
+    \resumeItemListEnd
+\resumeItem{Technologies}{Golang, Gorilla/mux framework, MSSQL, Docker, Kubernetes}
+\resumeItemListEnd
+\resumeSubHeadingListEnd
+
+
+%-----------EDUCATION-----------------
+\section{Education}
+\resumeSubHeadingListStart
+\resumeSubheading
+{Can Tho University - Information technology}{Can Tho, VN}
+{GPA: 3.44/4} {Oct/2017 - Jun/2021}
+% \resumeSubheading
+% {University of Bologna - Faculty of Engineering}{Bologna, IT}
+% {Master of Science Degree in Energy Engineering; Final grade 110/110 cum laude}{09/2010 - 03/2013}
+% \resumeSubheading
+% {University of Wollongong - Faculty of Engineering}{Wollongong, AU}
+% {Exchange program}{09/2012 - 02/2013}
+% \resumeSubheading
+% {Technical University of Copenhagen, Denmark - Faculty of Engineering}{Copenhagen, DK}
+% {Exchange program}{01/2011 - 06/2011}
+% \resumeSubheading
+% {University of Bologna, Italy - Faculty of Engineering}{Bologna, IT}
+% {Bachelor in Energy Engineering; Final grade 108/110}{09/2007 - 07/2010}
+\resumeSubHeadingListEnd
+
+
+%-----------Review activities-----------------
+\section{More info}
+\resumeSubHeadingListStart
+\item{
+\textbf{Professional blog}: https://dev.to/thanhphuchuynh 
+
+
+}
+\item{
+\textbf{Coursera ceftificate}: \href{https://www.coursera.org/account/accomplishments/verify/T4ZQ6DDMSU2Z}{Architecting Solutions on AWS}, \href{https://www.coursera.org/account/accomplishments/verify/UEP6SZZRPE4W}{Introduction to Cloud Computing},
+\href{https://www.coursera.org/account/accomplishments/verify/SM9VDJSBZ44C}{AWS Cloud Technical Essentials},
+\href{https://www.coursera.org/account/accomplishments/verify/SW273Y3U7XZU}{Introduction to DevOps},
+\href{https://www.coursera.org/account/accomplishments/verify/SM9VDJSBZ44C}{AWS Cloud Technical Essentials},
+}
+\resumeSubHeadingListEnd
+
+
+% %--------REFERENCES------------
+% \section{References}
+% \resumeSubHeadingListStart
+
+% \resumeSubheading
+% {Name Surname}{Email : \href{gmail@gmail.edu}{gmail@gmail.edu}}
+% {Institute}{}
+
+% \resumeSubHeadingListEnd
+
+%-------------------------------------------
+\end{document}
+Chat
+
+New Conversation
+
+�� Explain a complex thing
+
+Explain Artificial Intelligence so that I can explain it to my six-year-old child.
+
+
+�� Get suggestions and create new ideas
+
+Please give me the best 10 travel ideas around the world
+
+
+�� Translate, summarize, fix grammar and more…
+
+Translate "I love you" French
+
+
+GPT-4o Mini
+Hello, how can I help you today?
+GPT-4o Mini
+coin image
+10
+Upgrade
+
+
+
+Ask me anything...
+
+
+
+Make a Review & Earn Credit ❤
+Chat
+Ask
+Search
+Write
+Image
+ChatPDF
+Vision
+Full Page
+Invite & Earn
